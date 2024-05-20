@@ -20,7 +20,7 @@ Na fase anterior do projeto, foram realizados estudos sobre a viabilidade do pro
 
 esse software busca fazer um banco de dados de animais em situação vulnerabilidade e assim auxiliando na causa com engajamento da comunidade.
     
-## Custo:
+## Custo
 
 Planejamento e Documentação: 2 meses
 Fase de Desenvolvimento: 3 meses

@@ -73,10 +73,10 @@ Testes: R$ 69.000
 Custo Total das Fases: R$ 69.000 + R$ 101.000 + R$ 69.000 = R$ 239.000
 
 ## Autores
-Adriana Reis
-Bernardo Katewa Braga
-Carlos Eduardo dos Santos Gomes
-Caio Cesar Leão Coelho
-Danilo Camargo Menegaldo
-Daniel Garçia de Souza
-Erick Soares da Silva
+- Adriana Reis
+- Bernardo Katewa Braga
+- Carlos Eduardo dos Santos Gomes
+- Caio Cesar Leão Coelho
+- Danilo Camargo Menegaldo
+- Daniel Garçia de Souza
+- Erick Soares da Silva
